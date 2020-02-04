@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Wesh la zone/title>
+    </head>
+
+    <body>
+    
+<titre>Bon on fait quoi toto</titre>
+ 
+	</body>
+
+</html>
